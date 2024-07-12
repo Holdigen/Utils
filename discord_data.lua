@@ -1,6 +1,6 @@
 return {
-	discord_username = "Hold#4564",
-	discord_id = 1026610004494655631,
+	discord_username = "leon4564",
+	discord_id = 1186443589820088502,
 	server_id = 1026617554820673586,
-	server_url = "discord.gg/vedrox"
+	server_url = "discord.gg/v"
 }
